@@ -1,9 +1,5 @@
 /*******************ARDUINO-BASED GAS LEAKAGE DEVICE*****************************
  
-Note:    I've only used this project as a research project, focusing on creating a gas leak detector and temperature monitor using Arduino. 
-If you're considering using this code, please reach me out and ask for permission as I can provide the research paper for this study.
-I am  open to any discussions and questions regarding this matter. 
-
 Important note: Careful calibration, especially for the MQ2 gas sensor, is really important for accurate operation in industrial settings. More detailed research is needed in this area.
                                           
 ************************************************************************************/
